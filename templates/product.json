@@ -342,7 +342,7 @@
           "settings": {
             "image": "shopify://shop_images/img_prod_legging.webp",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
@@ -437,7 +437,7 @@
         "full_width": true,
         "stack_on_mobile": false,
         "title": "",
-        "heading_tag": "h5",
+        "heading_tag": "h4",
         "text_alignment": "center",
         "icon_spacing": "medium",
         "background": "",
