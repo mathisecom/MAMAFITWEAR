@@ -339,11 +339,11 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
+        "text": "Vivez une grossesse plus légère et confortable, jour après jour.",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 10,
+        "scrolling_speed": 7,
         "background": "#f5eeeb",
         "background_gradient": "",
         "text_color": "",
