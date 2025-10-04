@@ -15,6 +15,8 @@
         "image_RnH8Wz": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/BANNER_PC_13.jpg",
+            "mobile_image": "shopify://shop_images/BANNER_MOBILE_44.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
