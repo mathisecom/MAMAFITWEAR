@@ -445,7 +445,6 @@
         "item_kiNThR",
         "item_VkNhUh"
       ],
-      "disabled": true,
       "name": "Text with icons",
       "settings": {
         "full_width": true,
@@ -461,7 +460,6 @@
     },
     "scrolling_text_YajTNh": {
       "type": "scrolling-text",
-      "disabled": true,
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
