@@ -70,13 +70,14 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Informations sur la Livraisons",
+            "content": "<p>Commandez aujourd’hui, expédié le lendemain. Livraison en <strong>5 à 7 jours ouvrables</strong> avec suivi.</p>",
             "page": ""
           }
         },
         "collapsible_text_xfGAWt": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
