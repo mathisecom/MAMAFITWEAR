@@ -27,7 +27,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h4"
+            "heading_tag": "h2"
           }
         },
         "price": {
