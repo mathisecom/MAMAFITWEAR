@@ -298,6 +298,42 @@
         "text_color": ""
       }
     },
+    "media_with_text_GgKJjM": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_AKfYiQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/social_proof_legging.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Déjà +3,000 Futures Mamans Conquises",
+            "content": "<p><strong>En 2025</strong>, nos leggings de maternité <strong>MamaFitwear</strong> ont déjà accompagné des milliers de femmes dans cette merveilleuse aventure qu’est la grossesse.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_AKfYiQ"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "featured_collection_mcJmk7": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -581,6 +617,7 @@
     "featured_collection_JhaUTN",
     "media_with_text_Hq469b",
     "text_with_icons_k8nhNr",
+    "media_with_text_GgKJjM",
     "featured_collection_mcJmk7",
     "rich_text_kJpbGV",
     "image_link_blocks_D7hEhY",
