@@ -236,6 +236,58 @@
         "heading_gradient": ""
       }
     },
+    "press_7kKVrQ": {
+      "type": "press",
+      "blocks": {
+        "quote_Pdz8LW": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_BPQqDM": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_gyLJwK": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "quote_Pdz8LW",
+        "quote_BPQqDM",
+        "quote_gyLJwK"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "media_with_text_nhrbRJ": {
       "type": "media-with-text",
       "blocks": {
@@ -683,6 +735,7 @@
   "order": [
     "main",
     "image_link_blocks_UmByiY",
+    "press_7kKVrQ",
     "media_with_text_nhrbRJ",
     "media_with_text_Pc8Ane",
     "text_with_icons_M6H4wt",
