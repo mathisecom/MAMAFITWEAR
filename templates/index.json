@@ -334,6 +334,22 @@
         "spacing": "none"
       }
     },
+    "scrolling_text_GyRByN": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#f5eeeb",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "featured_collection_mcJmk7": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -618,6 +634,7 @@
     "media_with_text_Hq469b",
     "text_with_icons_k8nhNr",
     "media_with_text_GgKJjM",
+    "scrolling_text_GyRByN",
     "featured_collection_mcJmk7",
     "rich_text_kJpbGV",
     "image_link_blocks_D7hEhY",
