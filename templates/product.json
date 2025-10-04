@@ -235,6 +235,7 @@
         "image_CckpUa": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/img_prod_legging.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
