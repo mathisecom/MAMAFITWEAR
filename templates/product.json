@@ -457,13 +457,14 @@
         "image_hzHJ6x": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/legging_V5_1.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
+            "title": "S’adapte à Votre Ventre qui Grandit",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "link_text": "",
             "link_url": "",
