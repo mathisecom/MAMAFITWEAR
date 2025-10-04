@@ -251,8 +251,8 @@
           "settings": {
             "logo": "shopify://shop_images/Titre_75.jpg",
             "logo_width": 50,
-            "author": "",
-            "content": "",
+            "author": "Alice K.",
+            "content": "\" Confort absolu, ne serre pas le ventre et super doux 🥰 \"",
             "show_rating": true,
             "rating": 4
           }
@@ -262,8 +262,8 @@
           "settings": {
             "logo": "shopify://shop_images/Titre_74.jpg",
             "logo_width": 50,
-            "author": "",
-            "content": "",
+            "author": "Solène U.",
+            "content": "“ Maintien parfait sans compression, je l’adore 💕 ”",
             "show_rating": true,
             "rating": 4
           }
@@ -273,8 +273,8 @@
           "settings": {
             "logo": "shopify://shop_images/Titre_76.jpg",
             "logo_width": 50,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
+            "author": "Lucie J.",
+            "content": "“ Tellement agréable à porter, je ne mets plus que lui 😍 ”",
             "show_rating": true,
             "rating": 4
           }
