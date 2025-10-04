@@ -249,7 +249,8 @@
         "quote_Pdz8LW": {
           "type": "quote",
           "settings": {
-            "logo_width": 100,
+            "logo": "shopify://shop_images/Titre_75.jpg",
+            "logo_width": 50,
             "author": "",
             "content": "",
             "show_rating": true,
@@ -259,7 +260,8 @@
         "quote_BPQqDM": {
           "type": "quote",
           "settings": {
-            "logo_width": 100,
+            "logo": "shopify://shop_images/Titre_74.jpg",
+            "logo_width": 50,
             "author": "",
             "content": "Write some content about what they says about your store.",
             "show_rating": true,
@@ -269,7 +271,8 @@
         "quote_gyLJwK": {
           "type": "quote",
           "settings": {
-            "logo_width": 100,
+            "logo": "shopify://shop_images/Titre_76.jpg",
+            "logo_width": 50,
             "author": "",
             "content": "Write some content about what they says about your store.",
             "show_rating": true,
