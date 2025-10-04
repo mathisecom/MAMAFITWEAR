@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_WGxRAq": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_Bij9WM\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <div class=\"product-info__block-item\" data-block-id=\"liquid_7xXm48\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <div class=\"main-product__block main-product__block-custom_liquid\">\n      <div class=\"m-product-text\">\n        <style>\n          .badges-container {\n            display: flex;\n            gap: 6px; /* Espacement entre les badges */\n            align-items: center;\n            margin-bottom: 20px; /* Ajoute un espace en dessous */\n          }\n\n          .badge {\n            display: inline-block;\n            padding: 4px 10px;\n            font-size: 12px;\n            font-weight: bold;\n            color: white;\n            background: #2d4147; /* Nouvelle couleur */\n            border-radius: 15px;\n            text-transform: uppercase;\n            white-space: nowrap;\n          }\n        </style>\n\n        <div class=\"badges-container\">\n          <div class=\"badge\">BEST SELLER</div>\n          <div class=\"badge\">OFFRE D'AUTOMNE: -50% </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n            </div></div>"
+          }
+        },
         "liquid_kGXjji": {
           "type": "liquid",
           "settings": {
@@ -94,6 +100,7 @@
         }
       },
       "block_order": [
+        "liquid_WGxRAq",
         "liquid_kGXjji",
         "title",
         "price",
