@@ -27,11 +27,19 @@
             "text": "Livraison Offerte en France",
             "url": ""
           }
+        },
+        "message_jLqe9Y": {
+          "type": "message",
+          "settings": {
+            "text": "OFFRE D'AUTOMNE: -50% DE RÉDUCTION",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_bY8TDa"
+        "message_bY8TDa",
+        "message_jLqe9Y"
       ],
       "settings": {
         "enable_sticky": false,
