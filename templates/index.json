@@ -161,7 +161,12 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "shorts-de-grossesse-taille-haute-avec-poches-yoga-fitness-biker-shorts-maternite",
+          "leggings-sans-coutures-pour-femmes-enceintes-grossesse-confort-liberte-de-mouvement",
+          "leggings-de-maternite-ultra-confort-taille-haute-soutien-du-ventre-yoga-fitness-quotidien",
+          "legging-de-grossesse-taille-haute-confort-style-au-quotidien"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
