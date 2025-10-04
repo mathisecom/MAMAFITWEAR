@@ -263,7 +263,7 @@
             "logo": "shopify://shop_images/Titre_74.jpg",
             "logo_width": 50,
             "author": "",
-            "content": "Write some content about what they says about your store.",
+            "content": "",
             "show_rating": true,
             "rating": 4
           }
@@ -661,8 +661,8 @@
             "show_rating": true,
             "rating": 4,
             "author": "Anna A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Tellement confortables !",
+            "content": "<p>Tellement confortables ! Ils soutiennent sans serrer et la matière est d’une douceur incroyable. Je ne porte plus que ça depuis mon 2ᵉ trimestre 🥰</p>"
           }
         },
         "testimonial_KEnARk": {
@@ -672,8 +672,8 @@
             "show_rating": true,
             "rating": 4,
             "author": "Manon S.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Je l’adore !",
+            "content": "<p>Je l’adore ! Il épouse parfaitement mon ventre qui grandit et soulage vraiment mon dos. Impossible de repasser à un autre legging maintenant 😍</p>"
           }
         }
       },
