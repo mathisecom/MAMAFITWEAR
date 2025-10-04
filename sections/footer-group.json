@@ -102,7 +102,7 @@
           "type": "text",
           "settings": {
             "title": "Contactez-Nous",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "content": "<p><strong>Email :</strong> hello@mamafitwear.com</p><p><strong>Horaires :</strong></p><ul><li>Lundi à vendredi : 9h à 12h et 14h à 18h<br/></li><li>Samedi et dimanche : 10h à 12h</li></ul>",
             "enable_follow_on_shop": true
           }
         },
