@@ -298,6 +298,37 @@
         "text_color": ""
       }
     },
+    "featured_collection_mcJmk7": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "shorts-de-grossesse-taille-haute-avec-poches-yoga-fitness-biker-shorts-maternite",
+          "leggings-sans-coutures-pour-femmes-enceintes-grossesse-confort-liberte-de-mouvement",
+          "leggings-de-maternite-ultra-confort-taille-haute-soutien-du-ventre-yoga-fitness-quotidien",
+          "legging-de-grossesse-taille-haute-confort-style-au-quotidien"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Nouveautés",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "rich_text_kJpbGV": {
       "type": "rich-text",
       "blocks": {
@@ -550,6 +581,7 @@
     "featured_collection_JhaUTN",
     "media_with_text_Hq469b",
     "text_with_icons_k8nhNr",
+    "featured_collection_mcJmk7",
     "rich_text_kJpbGV",
     "image_link_blocks_D7hEhY",
     "testimonials_cK9PV6",
