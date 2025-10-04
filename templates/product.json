@@ -272,10 +272,10 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
+            "mobile_icon_width": 40,
+            "icon_width": 40,
             "icon_background_type": "circle",
-            "icon_background": "",
+            "icon_background": "#ebeee9",
             "icon_color": "",
             "title": "Free shipping",
             "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
@@ -285,10 +285,10 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
+            "mobile_icon_width": 40,
+            "icon_width": 40,
             "icon_background_type": "circle",
-            "icon_background": "",
+            "icon_background": "#ebeee9",
             "icon_color": "",
             "title": "Customer service",
             "content": "<p>We are available from monday to friday to answer your questions.</p>"
@@ -298,10 +298,10 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
+            "mobile_icon_width": 40,
+            "icon_width": 40,
             "icon_background_type": "circle",
-            "icon_background": "",
+            "icon_background": "#ebeee9",
             "icon_color": "",
             "title": "Secure payment",
             "content": "<p>Your payment information is processed securely.</p>"
@@ -311,10 +311,10 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
+            "mobile_icon_width": 40,
+            "icon_width": 40,
             "icon_background_type": "circle",
-            "icon_background": "",
+            "icon_background": "#ebeee9",
             "icon_color": "",
             "title": "Secure payment",
             "content": "<p>Your payment information is processed securely.</p>"
