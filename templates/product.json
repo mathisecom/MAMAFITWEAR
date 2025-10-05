@@ -711,22 +711,22 @@
         "item_FeNBEL": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Quand puis-je commencer à porter les leggings pendant ma grossesse ?",
+            "content": "<p>Nos leggings de maternité <strong>MamaFitwear</strong> sont polyvalents et peuvent être portés <strong>à toutes les étapes de la grossesse</strong>, s’adaptant à la croissance du ventre. Ils sont également très confortables pendant la <strong>période post-partum</strong>.</p>"
           }
         },
         "item_mw3YxA": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Que sont les leggings de maternité et en quoi sont-ils différents des leggings classiques ?",
+            "content": "<p>Les leggings de maternité sont spécialement conçus pour offrir <strong>un maintien doux et extensible au niveau du ventre</strong>, sans compresser. Contrairement aux leggings classiques, ils disposent d’une <strong>ceinture élastique haute</strong> qui s’adapte à l’évolution du corps tout au long de la grossesse.</p>"
           }
         },
         "item_48mrpd": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Les leggings de maternité sont-ils transparents ?",
+            "content": "<p>Non, nos leggings ne sont <strong>pas transparents</strong>. Leur tissu épais et extensible assure une <strong>couverture totale</strong>, même lorsqu’ils sont étirés.</p>"
           }
         }
       },
