@@ -643,6 +643,7 @@
         "item_mw3YxA",
         "item_48mrpd"
       ],
+      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
