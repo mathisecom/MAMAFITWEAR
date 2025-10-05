@@ -55,6 +55,19 @@
     "image_link_blocks_b8CqUB": {
       "type": "image-link-blocks",
       "blocks": {
+        "item_yMVtfb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_45.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "item_i3ybtC": {
           "type": "item",
           "settings": {
@@ -135,6 +148,7 @@
         }
       },
       "block_order": [
+        "item_yMVtfb",
         "item_i3ybtC",
         "item_N3aezp",
         "item_HiFE8w",
