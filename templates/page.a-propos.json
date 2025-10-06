@@ -44,6 +44,7 @@
       "block_order": [
         "image_3DnCrf"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
@@ -80,6 +81,7 @@
       "block_order": [
         "image_dHNV3R"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
