@@ -47,7 +47,34 @@
     "cart_free_shipping_threshold": "0",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "4976129024724438625": {
+        "type": "shopify://apps/smart-seo/blocks/brokenLinkDetection/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
+        "disabled": false,
+        "settings": {}
+      },
+      "6406956604159796213": {
+        "type": "shopify://apps/smart-seo/blocks/smartseo/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
+        "disabled": false,
+        "settings": {}
+      },
+      "855628211100114053": {
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {}
+      },
+      "13768625480086291342": {
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": false,
+        "settings": {}
+      },
+      "3979034072534932226": {
+        "type": "shopify://apps/metashop-instagram-facebook/blocks/app-embed/a2ba3b6f-1992-4528-a81d-226ccc4d2a86",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Sound": {
